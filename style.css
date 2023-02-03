@@ -55,3 +55,14 @@ body {
     font-size: 24px;
     /* .white-txt */
 }
+
+/* Navbar Styling */
+.nav-links > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+}
