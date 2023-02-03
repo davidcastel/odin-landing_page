@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+
+/* Typography */
+.dark-bg {
+    background-color: #1f2937;
+}
+
+.grey-bg {
+    background-color: #e5e7eb;
+}
+
+.white-bg {
+    background-color: #f9faf8;
+}
+
+.white-txt {
+    color: #f9faf8;
+}
+
+.dark-txt {
+    color: #1f2937;
+}
+
+.btn {
+    color: #3882f6;
+}
+
+.hero-txt {
+    font-size: 48px;
+    font-weight: bolder;
+    /* .white-txt */
+}
+
+.secondary-txt {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.info-txt {
+    font-size: 36px;
+    font-weight: bolder;
+    /* dark-txt */
+}
+
+.quote-txt {
+    font-size: 36px;
+    font-weight: italic;
+    /* dark-txt */
+}
+
+.logo-txt {
+    font-size: 24px;
+    /* .white-txt */
+}
