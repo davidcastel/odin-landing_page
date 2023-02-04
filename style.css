@@ -61,6 +61,12 @@ body {
     /* .white-txt */
 }
 
+.container {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
 /* Navbar Styling */
 nav {
     padding: 20px 175px;
