@@ -120,3 +120,14 @@ nav > .container {
 .right-hero {
     width: 50%;
 }
+
+/* Information Section */
+.info-section {
+    display: flex;
+    justify-content: center;
+}
+
+.info-section > .container {
+    text-align: center;
+    flex-direction: column;
+}
