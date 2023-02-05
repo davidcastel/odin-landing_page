@@ -69,7 +69,13 @@ body {
 
 /* Navbar Styling */
 nav {
-    padding: 20px 175px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav > .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
