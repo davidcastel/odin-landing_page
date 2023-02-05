@@ -131,3 +131,10 @@ nav > .container {
     text-align: center;
     flex-direction: column;
 }
+
+.info-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    padding: 5rem 5rem;
+}
