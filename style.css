@@ -217,3 +217,9 @@ nav > .container {
     border-width: 2px;
     padding: 0.5rem 2rem;
 }
+
+/* Footer Section */
+footer {
+    text-align: center;
+    padding: 2.5rem 0;
+}
