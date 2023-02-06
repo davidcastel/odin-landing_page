@@ -160,7 +160,6 @@ nav > .container {
 .quote-section {
     display: flex;
     justify-content: center;
-    background-color: #e5e7eb;
 }
 
 .quote-section > .container {
@@ -200,7 +199,6 @@ nav > .container {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    color: #f9faf8;
 }
 
 .cta-left {
@@ -212,7 +210,6 @@ nav > .container {
 }
 
 .cta-right > button {
-    color: white;
     background-color: #3882f6;
     border: solid;
     border-radius: 10px;
