@@ -168,3 +168,15 @@ nav > .container {
     padding-top: 3.5rem;
     padding-bottom: 3.5rem;
 }
+
+.quote-section blockquote {
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+.quote-section .author {
+    text-align: right;
+}
