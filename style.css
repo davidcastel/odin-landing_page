@@ -180,3 +180,43 @@ nav > .container {
 .quote-section .author {
     text-align: right;
 }
+
+/* CTA Section */
+.cta-section {
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+}
+
+.cta-section > .container {
+    background-color: #3882f6;
+    border-radius: 10px;
+    border-color: transparent;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.cta-section > .container > .container {
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    color: #f9faf8;
+}
+
+.cta-left {
+    align-items: start;
+}
+
+.cta-right {
+    align-items: end;
+}
+
+.cta-right > button {
+    color: white;
+    background-color: #3882f6;
+    border: solid;
+    border-radius: 10px;
+    border-color: #f9faf8;
+    border-width: 2px;
+    padding: 0.5rem 2rem;
+}
